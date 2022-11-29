@@ -1,2 +1,6 @@
-package PACKAGE_NAME;public class Squeak {
+public class Squeak implements QuackBehaviour{
+    @Override
+    public void quack() {
+        System.out.println("squeak");
+    }
 }

@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public interface QuackBehaviour {
+public interface QuackBehaviour {
+    public void quack();
 }

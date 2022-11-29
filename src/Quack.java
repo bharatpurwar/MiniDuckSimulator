@@ -1,2 +1,6 @@
-package PACKAGE_NAME;public class Quack {
+public class Quack implements QuackBehaviour{
+    @Override
+    public void quack() {
+        System.out.println("quacks");
+    }
 }
