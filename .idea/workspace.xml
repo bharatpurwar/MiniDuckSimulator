@@ -2,23 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="abae561e-9d87-4cdd-b4c6-a2282cab57dd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiniDuckSimulator.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Duck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FlyBehaviour.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FlyNoWay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FlyWithWings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MallardDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ModelDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MuteQuack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Quack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QuackBehaviour.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Squeak.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
